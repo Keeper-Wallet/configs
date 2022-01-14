@@ -1,5 +1,12 @@
 {
   "beforeSendBackground": [],
   "beforeSendPopup": [],
-  "contentScriptApprove": ["Attempt to transfer unavailable funds"]
+  "contentScriptApprove": [
+    "Accounts balance errors",
+    "Attempt to transfer unavailable funds",
+    "Cannot lease more than own",
+    "failed to parse json message",
+    "Lease with id=.* not found",
+    "non-positive amount"
+  ]
 }
