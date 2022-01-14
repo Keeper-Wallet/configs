@@ -1,5 +1,8 @@
 {
   "beforeSendBackground": [],
   "beforeSendPopup": [],
-  "contentScriptApprove": ["Attempt to transfer unavailable funds"]
+  "contentScriptApprove": [
+    "Attempt to transfer unavailable funds",
+    "Filed request"
+  ]
 }
