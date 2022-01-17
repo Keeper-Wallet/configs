@@ -3,6 +3,7 @@
   "beforeSendPopup": [],
   "contentScriptApprove": [
     "Accounts balance errors",
+    "Alias already claimed",
     "Attempt to transfer unavailable funds",
     "Cannot lease more than own",
     "Error while executing (account|token)-script",
