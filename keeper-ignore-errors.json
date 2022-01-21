@@ -1,6 +1,6 @@
 {
-  "beforeSendBackground": [],
-  "beforeSendPopup": [],
+  "beforeSendBackground": ["Failed to fetch"],
+  "beforeSendPopup": ["Failed to fetch"],
   "contentScriptApprove": [
     "Accounts balance errors",
     "Alias already claimed",
