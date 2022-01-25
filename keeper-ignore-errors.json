@@ -10,6 +10,7 @@
     "failed to parse json message",
     "Lease with id=.* not found",
     "non-positive amount",
-    "Transaction is not allowed by (account|token)-script"
+    "Transaction is not allowed by (account|token)-script",
+    "Transaction sent from smart account. Requires \d+ extra fee"
   ]
 }
