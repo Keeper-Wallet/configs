@@ -11,6 +11,6 @@
     "Lease with id=.* not found",
     "non-positive amount",
     "Transaction is not allowed by (account|token)-script",
-    "Transaction sent from smart account. Requires \d+ extra fee"
+    "Transaction sent from smart account. Requires \\d+ extra fee"
   ]
 }
