@@ -1,5 +1,8 @@
 {
-  "beforeSendBackground": ["Failed to fetch"],
+  "beforeSendBackground": [
+    "Failed to fetch",
+    "Error in invocation of storage.get"
+  ],
   "beforeSendPopup": ["Failed to fetch"],
   "contentScriptApprove": [
     "Accounts balance errors",
