@@ -24,6 +24,7 @@
     "Lease with id=.* not found",
     "non-positive amount",
     "ScriptParseError",
+    "Too big sequence requested",
     "Transaction is not allowed by (account|token)-script",
     "Transaction sent from smart account. Requires \\d+ extra fee"
   ],
