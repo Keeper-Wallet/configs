@@ -1,10 +1,11 @@
 {
-  "beforeSendAccounts": [
+  "beforeSend": [
     "Failed to fetch",
     "NetworkError when attempting to fetch resource",
     "An operation that changes interface state is in progress",
     "No device selected"
   ],
+  "beforeSendAccounts": [],
   "beforeSendBackground": [
     "Failed to fetch",
     "NetworkError when attempting to fetch resource",
@@ -12,9 +13,7 @@
   ],
   "beforeSendPopup": [
     "Failed to fetch",
-    "NetworkError when attempting to fetch resource",
-    "An operation that changes interface state is in progress",
-    "No device selected"
+    "NetworkError when attempting to fetch resource"
   ],
   "contentScriptApprove": [
     "Accounts balance errors",
