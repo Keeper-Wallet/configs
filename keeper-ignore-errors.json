@@ -1,7 +1,8 @@
 {
   "beforeSendAccounts": [
     "Failed to fetch",
-    "An operation that changes interface state is in progress"
+    "An operation that changes interface state is in progress",
+    "No device selected"
   ],
   "beforeSendBackground": [
     "Failed to fetch",
@@ -9,7 +10,8 @@
   ],
   "beforeSendPopup": [
     "Failed to fetch",
-    "An operation that changes interface state is in progress"
+    "An operation that changes interface state is in progress",
+    "No device selected"
   ],
   "contentScriptApprove": [
     "Accounts balance errors",
