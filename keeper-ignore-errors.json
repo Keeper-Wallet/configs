@@ -1,9 +1,16 @@
 {
+  "beforeSendAccounts": [
+    "Failed to fetch",
+    "An operation that changes interface state is in progress"
+  ],
   "beforeSendBackground": [
     "Failed to fetch",
     "Error in invocation of storage.get"
   ],
-  "beforeSendPopup": ["Failed to fetch"],
+  "beforeSendPopup": [
+    "Failed to fetch",
+    "An operation that changes interface state is in progress"
+  ],
   "contentScriptApprove": [
     "Accounts balance errors",
     "Alias already claimed",
