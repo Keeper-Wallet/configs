@@ -1,15 +1,18 @@
 {
   "beforeSendAccounts": [
     "Failed to fetch",
+    "NetworkError when attempting to fetch resource",
     "An operation that changes interface state is in progress",
     "No device selected"
   ],
   "beforeSendBackground": [
     "Failed to fetch",
+    "NetworkError when attempting to fetch resource",
     "Error in invocation of storage.get"
   ],
   "beforeSendPopup": [
     "Failed to fetch",
+    "NetworkError when attempting to fetch resource",
     "An operation that changes interface state is in progress",
     "No device selected"
   ],
