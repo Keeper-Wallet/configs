@@ -1,6 +1,7 @@
 {
   "beforeSend": [
     "An operation that changes interface state is in progress",
+    "An operation that changes the device state is in progress",
     "Failed to fetch",
     "NetworkError when attempting to fetch resource",
     "No device selected",
