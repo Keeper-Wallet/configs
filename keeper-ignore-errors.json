@@ -4,6 +4,7 @@
     "Failed to fetch",
     "NetworkError when attempting to fetch resource",
     "No device selected",
+    "The device was disconnected",
     "The operation was aborted"
   ],
   "beforeSendAccounts": [],
