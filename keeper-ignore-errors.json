@@ -5,6 +5,7 @@
     "Failed to fetch",
     "NetworkError when attempting to fetch resource",
     "No device selected",
+    "Request is rejected on ledger",
     "The device must be opened first",
     "The device was disconnected",
     "The operation was aborted",
