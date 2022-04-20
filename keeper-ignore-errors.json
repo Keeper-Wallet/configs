@@ -3,6 +3,7 @@
     "An operation that changes interface state is in progress",
     "An operation that changes the device state is in progress",
     "Failed to fetch",
+    "Must be handling a user gesture to show a permission request",
     "NetworkError when attempting to fetch resource",
     "No device selected",
     "Request is rejected on ledger",
