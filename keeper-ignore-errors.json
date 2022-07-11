@@ -26,6 +26,7 @@
   ],
   "contentScriptApprove": [
     "Accounts balance errors",
+    "Address or alias from other network",
     "Alias already claimed",
     "Attempt to transfer unavailable funds",
     "Cannot lease more than own",
