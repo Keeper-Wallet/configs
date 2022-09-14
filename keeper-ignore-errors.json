@@ -7,6 +7,7 @@
     "Could not fetch nft.json",
     "Could not fetch waves_keeper_blacklist.json",
     "Failed to fetch",
+    "FILE_ERROR_NO_SPACE",
     "Must be handling a user gesture to show a permission request",
     "NetworkError when attempting to fetch resource",
     "Non-Error exception captured with keys: message",
