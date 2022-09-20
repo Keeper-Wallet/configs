@@ -1,5 +1,6 @@
 {
   "beforeSend": [
+    "Amplitude Error",
     "An operation that changes interface state is in progress",
     "An operation that changes the device state is in progress",
     "Could not fetch fee.json",
