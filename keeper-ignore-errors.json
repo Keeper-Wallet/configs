@@ -19,6 +19,7 @@
     "The device must be opened first",
     "The device was disconnected",
     "The operation was aborted",
+    "Too big sequence",
     "Unable to claim interface"
   ],
   "beforeSendAccounts": [],
