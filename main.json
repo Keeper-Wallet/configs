@@ -1,4 +1,7 @@
 {
+  "assets": {
+    "maxAssetsPerRequest": 100
+  },
   "fee": {
     "smart_asset_extra_fee": 400000,
     "smart_account_extra_fee": 400000,
