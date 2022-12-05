@@ -42,6 +42,7 @@
       "An operation that changes .*? state is in progress",
       "Error while executing dApp",
       "Failed to fetch",
+      "Failed request",
       "Must be handling a user gesture to show a permission request",
       "NetworkError when attempting to fetch resource",
       "No device selected",
