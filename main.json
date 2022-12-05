@@ -41,6 +41,7 @@
     "beforeSend": [
       "An operation that changes interface state is in progress",
       "An operation that changes the device state is in progress",
+      "Error while executing dApp",
       "Failed to fetch",
       "Must be handling a user gesture to show a permission request",
       "NetworkError when attempting to fetch resource",
@@ -65,7 +66,6 @@
       "Alias already claimed",
       "Attempt to transfer unavailable funds",
       "Cannot lease more than own",
-      "Error while executing (account|token)-script",
       "failed to parse json message",
       "Fee for IssueTransaction \\(.+?\\) does not exceed minimal value of",
       "Lease with id=.* not found",
