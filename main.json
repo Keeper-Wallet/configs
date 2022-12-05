@@ -39,8 +39,7 @@
   },
   "ignoreErrors": {
     "beforeSend": [
-      "An operation that changes interface state is in progress",
-      "An operation that changes the device state is in progress",
+      "An operation that changes .*? state is in progress",
       "Error while executing dApp",
       "Failed to fetch",
       "Must be handling a user gesture to show a permission request",
@@ -49,39 +48,25 @@
       "No Ledger device found \\(timeout\\)",
       "Request is rejected on ledger",
       "SecurityError: Access denied",
+      "State check failed",
       "The browser is shutting down",
       "The device must be opened first",
       "The device was disconnected",
       "The operation was aborted",
-      "Unable to claim interface"
+      "Transaction is not allowed by (account|token)-script",
+      "Transaction sent from smart account. Requires \\d+ extra fee",
+      "Unable to claim interface",
+      "User denied message"
     ],
     "beforeSendAccounts": [],
-    "beforeSendBackground": [
-      "Error in invocation of storage.get"
-    ],
+    "beforeSendBackground": [],
     "beforeSendPopup": [],
     "contentScriptApprove": [
-      "Accounts balance errors",
-      "Address or alias from other network",
-      "Alias already claimed",
-      "Attempt to transfer unavailable funds",
-      "Cannot lease more than own",
-      "failed to parse json message",
-      "Fee for IssueTransaction \\(.+?\\) does not exceed minimal value of",
-      "Lease with id=.* not found",
-      "non-positive amount",
-      "ScriptParseError",
-      "Too big sequence requested",
-      "Transaction is not allowed by (account|token)-script",
-      "Transaction sent from smart account. Requires \\d+ extra fee"
+      "failed to parse json message"
     ],
-    "popupApprove": [
-      "Transaction is not allowed by (account|token)-script",
-      "User denied message"
-    ]
+    "popupApprove": []
   },
   "nfts": {
     "signArtImgUrl": "https://signart.infura-ipfs.io/ipfs/{domain}/{filename}"
   }
 }
-
