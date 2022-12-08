@@ -40,6 +40,7 @@
   "ignoreErrors": {
     "beforeSend": [
       "An operation that changes .*? state is in progress",
+      "Error while executing account-script",
       "Error while executing dApp",
       "Failed to fetch",
       "Failed request",
