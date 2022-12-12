@@ -42,6 +42,7 @@
       "An operation that changes .*? state is in progress",
       "Error while executing account-script",
       "Error while executing dApp",
+      "Failed to execute 'transferIn' on 'USBDevice'",
       "Failed to fetch",
       "Failed request",
       "Must be handling a user gesture to show a permission request",
