@@ -39,6 +39,7 @@
   },
   "ignoreErrors": {
     "beforeSend": [
+      "Address or alias from other network",
       "An operation that changes .*? state is in progress",
       "Error while executing account-script",
       "Error while executing dApp",
