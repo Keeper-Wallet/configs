@@ -58,6 +58,7 @@
       "The device was disconnected",
       "The operation was aborted",
       "Transaction is not allowed by (account|token)-script",
+      "Transaction pool scripted txs size limit is reached",
       "Transaction sent from smart account. Requires \\d+ extra fee",
       "Unable to claim interface",
       "User denied message"
