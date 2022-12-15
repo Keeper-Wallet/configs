@@ -61,6 +61,7 @@
       "Transaction pool scripted txs size limit is reached",
       "Transaction sent from smart account. Requires \\d+ extra fee",
       "Unable to claim interface",
+      "Unable to release interface",
       "User denied message"
     ],
     "beforeSendAccounts": [],
